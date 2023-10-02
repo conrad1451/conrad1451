@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @conrad1451
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on FrontEnd and Fullstack projects.
+- 💞️ I’m looking to collaborate on FrontEnd projects in ReactJS. VanillaJS and VanillaTS also welcome, depending on the project size and scope.
 - 📫 How to reach me: ...
 
 <!---
