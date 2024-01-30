@@ -5,6 +5,14 @@
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/conrad-hansen-quartey/
 
+- 📫 While you're here, check out my portfolio websites:
+  - https://conradhq.vercel.app/
+  - https://conradhq-three-js.vercel.app/
+
+
+And here are some emojis you might catch me using throughout my projects:
+🚀🛰️✈️🦅🇬🇭 🇺🇸🌎🔥😎🛩️🕹️🎮
+
 <!---
 conrad1451/conrad1451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
