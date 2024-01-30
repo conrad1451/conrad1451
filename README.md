@@ -11,7 +11,7 @@
 
 
 And here are some emojis you might catch me using throughout my projects:
-🚀🛰️✈️🦅🇬🇭 🇺🇸🌎🔥😎🛩️🕹️🎮
+🚀🛰️✈️🦅🇬🇭 🇺🇸🌎🔥😎🛩️🕹️🎮👨🏾‍💻🖥️🛠️⚙️
 
 <!---
 conrad1451/conrad1451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
