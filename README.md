@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @conrad1451
-- 👀 I’m interested in software development. On the side of tech things, I like cooking, among other things.
+- 👀 I’m interested in software development. Outside of tech things, I like cooking, among other things.
 - 🌱 I’m currently learning NodeJS, ExpressJS and Flask 
 - 💞️ I’m looking to collaborate on FrontEnd, BackEnd or FullStack projects using ReactJS and NodeJS/Flask.
 - 📫 How to reach me: 
