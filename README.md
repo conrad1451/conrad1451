@@ -7,7 +7,7 @@
 
 - 📫 While you're here, check out my portfolio websites:
   - https://conradhq.vercel.app/
-  - https://conradhq-three-js.vercel.app/
+  - https://conradhqportfolio.vercel.app/
 
 
 And here are some emojis you might catch me using throughout my projects:
