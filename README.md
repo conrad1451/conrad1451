@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conrad1451
-- 👀 I’m interested in software development. Outside of tech things, I like cooking, among other things.
-- 🌱 I’m currently learning NodeJS, ExpressJS and Flask 
+- 👀 I’m interested in software development. Outside of tech things, I like cooking and watching YouTube videos. 
+- 🌱 I’m currently learning alot.
 - 💞️ I’m looking to collaborate on FrontEnd, BackEnd or FullStack projects using ReactJS and NodeJS/Flask.
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/conrad-hansen-quartey/
