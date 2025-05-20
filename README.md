@@ -3,12 +3,12 @@
 - 🌱 I’m currently learning alot.
 - 💞️ I’m looking to collaborate on FrontEnd, BackEnd or FullStack projects using ReactJS and NodeJS/Flask.
 - 📫 How to reach me: 
-  - LinkedIn: https://www.linkedin.com/in/conrad-hansen-quartey/
 
 - 📫 While you're here, check out my portfolio websites:
   - https://conradhq.vercel.app/
   - https://conradhqportfolio.vercel.app/
 
+Yes, the git commit tracker tracks both my public repositories and private repositories.
 
 And here are some emojis you might catch me using throughout my projects:
 🚀🛰️✈️🦅🇬🇭 🇺🇸🌎🔥😎🛩️🕹️🎮👨🏾‍💻🖥️🛠️⚙️🌐🔍♾️📱📈🔼📋
