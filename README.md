@@ -5,7 +5,6 @@
 - 📫 How to reach me: 
 
 - 📫 While you're here, check out my portfolio websites:
-  - https://conradhq.vercel.app/
   - https://conradhqportfolio.vercel.app/
 
 Yes, the git commit tracker tracks both my public repositories and private repositories.
