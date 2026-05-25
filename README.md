@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @conrad1451
-- 👀 I’m interested in software development. Outside of tech things, I like cooking and watching YouTube videos. 
+- 👀 I’m interested in software development. Outside of tech things, I like cooking and watching YouTube videos (faith, tech, business, personal development, health and cooking are my favorite genres). 
 - 🌱 I’m currently learning alot.
 - 💞️ I’m looking to collaborate on FrontEnd, BackEnd or FullStack projects using ReactJS and NodeJS/Flask.
 - 📫 How to reach me: 
