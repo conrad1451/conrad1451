@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning alot.
 - 💞️ I’m looking to collaborate on FrontEnd, BackEnd or FullStack projects using ReactJS and NodeJS/Flask.
 - 📫 How to reach me: 
+  - https://www.linkedin.com/in/conrad-hansen-quartey
+    (if you do send me a connection request, include a message with a fun fact about yourself or something interesting that you're currently learning!)
 
 - 📫 While you're here, check out my portfolio websites:
   - https://conradhqportfolio.vercel.app/
