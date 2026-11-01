@@ -14,6 +14,8 @@ Yes, the git commit tracker tracks both my public repositories and private repos
 And here are some emojis you might catch me using throughout my projects:
 🚀🛰️✈️🦅🇬🇭 🇺🇸🌎🔥😎🛩️🕹️🎮👨🏾‍💻🖥️🛠️⚙️🌐🔍♾️📱📈🔼📋
 
+![GitHub Contributions](https://gitblend.com/api/contributions/github?username=conrad1451)
+
 <!---
 conrad1451/conrad1451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
